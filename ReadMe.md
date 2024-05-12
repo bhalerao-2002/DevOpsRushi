@@ -1,3 +1,13 @@
+### 1. Node health check
+### 2. Running processes check
+### 3. AWS resources check
+### 4. Git-Organization users check
+### 5. Deploy Application on AWS
+### 6. 
+
+
+
+
 # 1.a Write a shell script to check health of node.
 
 
